@@ -8,5 +8,5 @@
         <span>React</span> and <span>jsx</span>
         <span>react-router</span>
         <span>react-router-dom</span>
-        Just clone this repo and start coding |:.
+        Just clone this repo and start coding |:
        </p>
