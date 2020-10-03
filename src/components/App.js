@@ -1,9 +1,9 @@
 import React from 'react'
-
+import style from './App.css';
 const App = () => {
     return (
-        <div>
-            <h1>Hello my dears</h1>   
+        <div className={style.app}>
+            <h1>Hello my dears!</h1>   
         </div>
     )
 }
