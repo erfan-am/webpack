@@ -1,0 +1,1 @@
+<h1>React/webpack</h1>
