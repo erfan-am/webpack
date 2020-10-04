@@ -37,6 +37,9 @@
         <h4>
         5-<span>sass</span>
         </h4>
+            <h4>
+               6-<span>eslint</span>
+        </h4>
         <h4>
            6-<span>node-sass</span></h4>
         Just clone this repo and start coding |:
