@@ -16,9 +16,10 @@ module.exports={
             }
            },
            {
-            test: /\.css$/i,
+            test: /\.(s*)css$/i,
             use: [
               // style-loader
+              {loader:'style-loader'},
               // css-loader
               {
                 loader: 'css-loader',
@@ -27,7 +28,7 @@ module.exports={
                 }
               },
               // sass-loader
-            //   { loader: 'sass-loader' }
+              { loader: 'sass-loader' }
             ]
           }
         ]
