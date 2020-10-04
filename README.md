@@ -43,6 +43,8 @@
         <h4>
            7-<span>node-sass</span></h4>
         Just clone this repo and start coding |:
-           <p>
-           for more information about webpack ,you could read this documents 
-           <a href="https://webpack.js.org/concepts/" >Webpack</a></p>
+           <hr/>
+           <h2>Documents</h2>
+           <a href="https://webpack.js.org/concepts/" >Webpack</a>
+           <a href="https://sass-lang.com/documentation" >Sass</a>
+           <a href="https://eslint.org/docs/about/" >ESLint</a>
