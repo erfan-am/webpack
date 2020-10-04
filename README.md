@@ -22,4 +22,21 @@
         <h4>
         6-<span>react-router-dom</span>
         </h4>
+         <h1>Dev Dependencies</h1>
+             1-<span style="background:green,color:white">webpack</span>
+        <h4>
+        <h4>
+        2-<span>style-loader</span> 
+        </h4>
+        <h4>
+        3-<span>css-loader</span>
+        </h4>
+        <h4>
+        4-<span>sass-loader</span> 
+        </h4>
+        <h4>
+        5-<span>sass</span>
+        </h4>
+        <h4>
+           6-<span>node-sass</span></h4>
         Just clone this repo and start coding |:
