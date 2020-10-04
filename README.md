@@ -42,6 +42,9 @@
         </h4>
         <h4>
            7-<span>node-sass</span></h4>
+           <h4>
+        8-<span>Babel</span>
+        </h4>
         Just clone this repo and start coding |:
            <hr/>
            <h2>Documents</h2>
@@ -53,5 +56,8 @@
            </h3>
            <h3>3-
            <a href="https://eslint.org/docs/about/" >ESLint</a>
+           </h3>
+           <h3>4-
+              <a href="https://babeljs.io/docs/en/">Babel</a>
            </h3>
            
