@@ -1,11 +1,11 @@
-import React from 'react'
-import style from './App.scss';
+import React from 'react';
+
 const App = () => {
     return (
-        <div className={style.app}>
-            <h1>Hello my dears!</h1>   
+        <div>
+            <h1>Hello Dears!</h1>
         </div>
-    )
-}
+    );
+};
 
-export default App
+export default App;
