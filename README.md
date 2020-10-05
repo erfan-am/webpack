@@ -1,7 +1,7 @@
 <h1>React/webpack</h1>
 
 
-   <p>Starter template for react and webpack.</p>
+   <p>Starter template for react app created by webpack.</p>
      <h2> Features</h2>
         Compilation with 
         <h4>
