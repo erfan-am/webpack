@@ -1,11 +1,15 @@
 import React from 'react';
-
-const App = () => {
-    return (
-        <div>
-            <h1>Hello Dears!</h1>
-        </div>
-    );
-};
+class  App extends React.Component{
+        state={
+            text:'Hello Dears !'
+        }
+    render() {
+        return (
+            <div>
+               <h1> {this.state.text}</h1>
+            </div>
+        )
+    }
+} 
 
 export default App;
