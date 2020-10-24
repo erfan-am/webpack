@@ -7,18 +7,18 @@ class App extends React.Component {
     }
 
         state={
-            data:null
+            data: null
         }
 
-        render (){
-            const { data }=this.state;
+        render () {
+            const { data } = this.state;
             console.log(data);
-            return  data ? 
-            <div className="flex">
+            return data ?
+                <div className="flex">
                     <h1 className="h1"> { data.title }</h1>
-                    <a href={ data.link }>This is my github</a>
-            </div> : 
-            <h1>Loading...</h1>
+                    <a href={data.link}>This is my github</a>
+                </div> :
+                <h1>Loading...</h1>;
         }
 }
 
