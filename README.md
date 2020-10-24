@@ -17,10 +17,7 @@
         4-<span>React-dom</span>
         </h4>
         <h4>
-        5-<span>jsx</span> 
-        </h4>
-        <h4>
-        6-<span>react-router</span>
+        5-<span>react-router</span>
         </h4>
         <h4>
         7-<span>react-router-dom</span>
@@ -29,7 +26,7 @@
              1-<span>webpack dev dependencies</span>
         <h4>
         <h4>
-        2-<span>style-loader</span> 
+        2-<span>style dev dependencies</span> 
         </h4>
         <h4>
         3-<span>css-loader</span>
@@ -45,8 +42,11 @@
         </h4>
         <h4>
            7-<span>node-sass</span></h4>
-           <h4>
+         <h4>
         8-<span>Babel</span>
+        </h4>
+          <h4>
+        9-<span>Prettier</span>
         </h4>
         <h2>Quick Start</h2>
         <ol>
@@ -73,4 +73,8 @@
            <h3>5-
               <a href="https://babeljs.io/docs/en/">Babel</a>
            </h3>
+           <h3>
+           -6<a href="https://prettier.io/docs/en/index.html">Prettier_
+           <p>Prettier is an opinionated code formatter</p>
+           </a></h3>
            
