@@ -48,9 +48,10 @@
            <h4>
         8-<span>Babel</span>
         </h4>
+        <h2>Quick Start</h2>
         <ol>
         <li>first clone this repo</li>
-        <li>in cmd type cd webpack</li>
+        <li>directory => cd webpack</li>
         <li>for install dependencies , type yarn install</li>
         <li>at the end type yarn run dev</li>
         </ol>
