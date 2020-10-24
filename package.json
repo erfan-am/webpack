@@ -1,7 +1,7 @@
 {
   "name": "fullstack",
   "version": "1.0.0",
-  "description": "<h1>React/webpack</h1>",
+  "description": "<h1>React-webpack-express</h1>",
   "main": "webpack.config.js",
   "scripts": {
     "start": "npm run eslint-fix && webpack-dev-server --mode development --open --hot",
