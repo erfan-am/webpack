@@ -1,4 +1,4 @@
-<h1>React/webpack</h1>
+<h1>React-webpack-Express</h1>
 
 
    <p>Starter template for fullstack react.</p>
